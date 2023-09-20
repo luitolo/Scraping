@@ -1,1 +1,2 @@
 # Scraping
+Web scraping es una técnica informática la cual nos permite extarer datos desde paginas web. Las técnicas dependiendo del contenido de la página, las resumimos como estáticas "página HTML fija" y dinámicas "pagina interactiva HTML mas javascript". Python Selenium y Python Requests son dos de las librerías más comunes utilizadas en la comunidad de web scraping para extraer datos desde un sitio web que uno necesita. Como ejemplo, llevaremos a cabo la extracción de datos, de una tienda que compara precios, particularmente de notebooks "SoloTodo".
